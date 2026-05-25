@@ -1,7 +1,8 @@
-<h1>Privacy Policy</h1>
+<h1>MCP Gmail Project</h1>
 
-<p>This app uses Google OAuth to access Gmail data.</p>
+<p>
+This application is a personal MCP (Model Context Protocol) integration tool
+to connect and manage Gmail API securely using OAuth 2.0.
+</p>
 
-<p>We do not store emails or personal data on our servers.</p>
-
-<p>Data is only used for MCP integration functionality.</p>
+<a href="/privacy-policy">Privacy Policy</a>
