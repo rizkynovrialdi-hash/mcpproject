@@ -1,11 +1,4 @@
-<h1>MCP Gmail Project</h1>
 
-<p>
-This application is a personal MCP (Model Context Protocol) integration tool
-to connect and manage Gmail API securely using OAuth 2.0.
-</p>
-
-<a href="/privacy-policy">Privacy Policy</a>
 {
   "name": "gmail-mcp",
   "version": "1.0.0",
